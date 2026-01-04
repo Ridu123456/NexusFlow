@@ -1,6 +1,13 @@
 {
   "name": "NexusFlow",
-  "description": "Smart mobility web app for optimized urban travel routes and social transport connections.",
+  "tagline": "Smart Mobility Together",
+  "description": "An AI-powered urban mobility engine that synchronizes multi-modal transit with social fare-sharing to reduce city congestion and carbon footprints via Gemini 3 Pro.",
+  "tech_stack": [
+    "Google Gemini 3 Pro (Multimodal Reasoning)",
+    "React 19 (Concurrent Rendering)",
+    "Tailwind CSS (Adaptive UI)",
+    "Real-time Mesh Synchronization"
+  ],
   "requestFramePermissions": [
     "camera",
     "geolocation"

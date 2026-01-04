@@ -7,6 +7,8 @@ export enum AppView {
   CONNECT = 'CONNECT',
   PROFILE = 'PROFILE',
   PLAN_AHEAD = 'PLAN_AHEAD',
+  VISION = 'VISION',
+  ORACLE = 'ORACLE',
 }
 
 export enum TransportMode {
@@ -32,7 +34,7 @@ export interface RouteSegment {
 
 export interface RouteOption {
   id: string;
-  mode: TransportMode; // Primary/Starting mode
+  mode: TransportMode; 
   segments: RouteSegment[];
   duration: string;
   cost: string;
