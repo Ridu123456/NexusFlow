@@ -89,11 +89,6 @@ NexusFlow is a next-generation smart mobility web application designed to optimi
 3.  **Connect:** Search for a destination to find nearby travelers, form a group, and simulate a QR verification.
 4.  **Profile:** Track your savings and view your unlocked badges.
 
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ---
 
