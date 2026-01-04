@@ -1,0 +1,8 @@
+{
+  "name": "NexusFlow",
+  "description": "Smart mobility web app for optimized urban travel routes and social transport connections.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
