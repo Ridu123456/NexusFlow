@@ -50,7 +50,7 @@ NexusFlow is a next-generation smart mobility web application designed to optimi
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/nexusflow.git
+    git clone https://github.com/Ridu123456/NexusFlow.git
     cd nexusflow
     ```
 
