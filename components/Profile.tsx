@@ -116,7 +116,7 @@ const Profile: React.FC<ProfileProps> = ({ user, onBack, onLogout, onNavigateToP
                 <div className="w-14 h-14 bg-white text-emerald-600 rounded-2xl flex items-center justify-center mb-8 shadow-xl shadow-emerald-200/50 border border-emerald-100 group-hover:-translate-y-1 transition-transform">
                   <Navigation className="w-7 h-7" />
                 </div>
-                <div className="text-5xl font-display font-black text-emerald-900 tracking-tighter mb-1">24.8 <span className="text-xl font-bold opacity-40 uppercase tracking-widest">kg</span></div>
+                <div className="text-5xl font-display font-black text-emerald-900 tracking-tighter mb-1">12.4 <span className="text-xl font-bold opacity-40 uppercase tracking-widest">kg</span></div>
                 <div className="text-[11px] font-black text-emerald-700/60 uppercase tracking-widest">Carbon Neutralization Impact</div>
               </div>
               <div className="absolute right-[-10%] bottom-[-10%] opacity-[0.05] group-hover:opacity-10 transition-opacity">
